@@ -2,3 +2,4 @@
 set -eu
 
 echo "hosts"
+# clarify the control flow
