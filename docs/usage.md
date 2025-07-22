@@ -13,3 +13,4 @@ Notes and usage details for hosts.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
